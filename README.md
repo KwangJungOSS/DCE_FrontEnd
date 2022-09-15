@@ -9,7 +9,8 @@ RDCE를 통해 내가 어떤 주제에 관심 있는지, 나를 귀찮게 하는
 ## 필수 설정 - IMAP을 사용해주세요!
   
 ## Naver  
-메일 왼쪽 아래의 환경설정 > POP3 / IMAP 설정 > IMAP / SMTP 설정 탭에서 IMAP/SMTP 사용 옵션을 사용함으로 설정   
+메일 왼쪽 아래의 환경설정 > POP3 / IMAP 설정 > IMAP / SMTP 설정 탭에서 IMAP/SMTP 사용 옵션을 사용함으로 설정  
+  
 ![image](https://user-images.githubusercontent.com/71928522/189707903-733f1250-fde3-420f-816d-9a567a146250.png)
 
 ## Gmail    
@@ -20,9 +21,14 @@ RDCE를 통해 내가 어떤 주제에 관심 있는지, 나를 귀찮게 하는
 
 ## 주요 기능
 ### 메일 분석
-Text-mining을 통한 메일 분석!  
-+-- Naive Bayes Classifier  
-+-- Topic Modeling, LDA  
+Text-mining을 통해 메일을 분석해요!  
++ 나에게 가장 메일을 많이 보내는 사람은??  
++ 메일함에서 읽은 메일은? 안읽은 메일은? 
++ 내 메일함의 주요 키워드는?
++ 삭제하면 좋을 메일들은?  
+
+### 메일 삭제  
+(10월 중 개발 예정)  
   
 ## 서비스 화면
 
