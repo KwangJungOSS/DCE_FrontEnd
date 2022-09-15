@@ -38,6 +38,9 @@ Text-mining을 통해 메일을 분석해요!
 ### 메일 분석화면
 ![image](https://user-images.githubusercontent.com/71928522/190339769-58c62810-a669-4b4a-a4d3-3507f7189c66.png)
 
+### 삭제 추천 메일
+![image](https://user-images.githubusercontent.com/71928522/190340638-5b1e8ad1-5a58-4cdb-8848-ffde04aa9571.png)
+
 
 ## 시스템 구성 및 아키텍처
 ![image](https://user-images.githubusercontent.com/71928522/189708430-c80fc4c0-7318-4f8c-baf9-f3963c5e67c4.png)
